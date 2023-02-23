@@ -46,8 +46,5 @@ public class Read_data {
 
 	}
 
-	public static void main(String[] args) {
-		Read_data a = new Read_data();
-		a.loadExcel();
-	}
+
 }
